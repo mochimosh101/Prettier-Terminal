@@ -1,1 +1,1 @@
-# Combination of multiple terminal plugins
+# Combination Of Multiple Terminal Plugins
